@@ -1,5 +1,9 @@
 # 42-Common-Core
 
+<p> align="center">
+	<img src="https://github.com/Scelfo42/Scelfo42/blob/main/42_banners/Common-Core-banner.png">
+</p>
+
 ## PROJECTS
 <div align="center">
 
