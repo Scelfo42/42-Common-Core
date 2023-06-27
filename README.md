@@ -15,3 +15,29 @@
 | [philosophers](https://github.com/Scelfo42/philosopher) | 3 | <img src="https://img.shields.io/badge/done-sucess" /> | <img src="https://img.shields.io/github/languages/top/Scelfo42/philosopher" /> | [![cscelfo's 42 Philosophers Score](https://badge42.vercel.app/api/v2/clg22s3a2000608ml2qvs6aly/project/3110462)](https://github.com/JaeSeoKim/badge42) | <img src="https://img.shields.io/github/last-commit/Scelfo42/philosopher" /> |
 | [minishell](https://github.com/Scelfo42/minishell) | 3 | <img src="https://img.shields.io/badge/registered-yellow" /> | <img src="https://img.shields.io/github/languages/top/Scelfo42/minishell" /> | [![cscelfo's 42 minishell Score](https://badge42.vercel.app/api/v2/clg22s3a2000608ml2qvs6aly/project/3112055)](https://github.com/JaeSeoKim/badge42) | <img src="https://img.shields.io/github/last-commit/Scelfo42/minishell" /> |
 </div>
+
+## EXAMS
+<div align="center">
+
+| Exam | Rank | Status | Date | Score |
+| :---: | :---: | :---: | :---: | :---: |
+| Exam 02 | 02 | <img src="https://img.shields.io/badge/sucess-sucess" /> | 31-03-2023 | [![cscelfo's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/clg22s3a2000608ml2qvs6aly/project/3106235)](https://github.com/JaeSeoKim/badge42) |
+
+
+| Exam | Rank | Status | Date | Score |
+| :---: | :---: | :---: | :---: | :---: |
+| Exam 03 | 03 | - | - | - |
+	
+| Exam | Rank | Status | Date | Score |
+| :---: | :---: | :---: | :---: | :---: |
+| Exam 04 | 04 | - | - | - | - |
+	
+| Exam | Rank| Status | Date | Score |
+| :---: | :---: | :---: | :---: | :---: |
+| Exam 05 | 05 | - | - | - | - |
+	
+| Exam | Rank | Status | Date | Score |
+| :---: | :---: | :---: | :---: | :---: |
+| Exam 06 | 06 | - | - | - | - |
+
+</div>
