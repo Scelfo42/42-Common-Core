@@ -32,11 +32,11 @@
 
 | Rank | Status | Date | Score |
 | :---: | :---: | :---: | :---: |
-| 03 | <img src="https://img.shields.io/badge/sucess-sucess" /> | 02-08-2023 | [![cscelfo's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/clg22s3a2000608ml2qvs6aly/project/3106235)](https://github.com/JaeSeoKim/badge42) |
+| 03 | <img src="https://img.shields.io/badge/sucess-sucess" /> | 02-08-2023 | [![cscelfo's 42 Exam Rank 03 Score](https://badge42.vercel.app/api/v2/clg22s3a2000608ml2qvs6aly/project/3106235)](https://github.com/JaeSeoKim/badge42) |
 
 | Rank | Status | Date | Score |
 | :---: | :---: | :---: | :---: |
-| 04 | <img src="https://img.shields.io/badge/sucess-sucess" /> | 20-09-2023 | [![cscelfo's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/clg22s3a2000608ml2qvs6aly/project/3106235)](https://github.com/JaeSeoKim/badge42) |
+| 04 | <img src="https://img.shields.io/badge/sucess-sucess" /> | 20-09-2023 | [![cscelfo's 42 Exam Rank 04 Score](https://badge42.vercel.app/api/v2/clg22s3a2000608ml2qvs6aly/project/3106235)](https://github.com/JaeSeoKim/badge42) |
 	
 | Rank | Status | Date | Score |
 | :---: | :---: | :---: | :---: |
